@@ -22,5 +22,5 @@ function getAndPrintHTMLChunks () {
 
 
 
-getAndPrintHTMLChunks();
 
+getAndPrintHTMLChunks();
